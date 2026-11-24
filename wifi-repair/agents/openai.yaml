@@ -1,0 +1,4 @@
+interface:
+  display_name: "家庭 Wi-Fi 分步诊断与修复"
+  short_description: "按顺序诊断 Mac 与 Windows 的无线信号、DNS 和网络延迟"
+  default_prompt: "使用 $wifi-repair 逐项检查家庭 Wi-Fi，每次只做一项测试，并验证修复效果。"
